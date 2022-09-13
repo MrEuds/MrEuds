@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrEuds
 - 👀 Student @ DHGE
-- 🍣 Like to eat Sushi
+- 🍣 Likes to eat Sushi
 - 💻 Java, CPP, PowerShell
 - 🎮 Enjoy playing The Binding of Isaac
 
